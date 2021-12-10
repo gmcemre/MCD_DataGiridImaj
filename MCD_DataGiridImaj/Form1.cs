@@ -22,9 +22,9 @@ namespace MCD_DataGiridImaj
             List<Urun> urunlerim = new List<Urun>();
             urunlerim.Add(new Urun()
             {
-                Id =1,
-                UrunTanim=  "Tablet 1",
-                ResimYol  = @"C:\Users\103AKSAM_EMRE\Desktop\aksamemre\photos\Tablet1.jfif"
+                Id = 1,
+                UrunTanim = "Tablet 1",
+                ResimYol = @"C:\Users\103AKSAM_EMRE\Desktop\aksamemre\photos\Tablet1.jfif"
             });
 
             urunlerim.Add(new Urun()
@@ -45,7 +45,7 @@ namespace MCD_DataGiridImaj
             {
                 Id = 4,
                 UrunTanim = "Tablet 4",
-                ResimYol =string .Empty 
+                ResimYol = string.Empty
             });
 
             grdUrunler.DataSource = urunlerim;

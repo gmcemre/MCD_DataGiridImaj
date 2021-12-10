@@ -12,7 +12,7 @@ namespace MCD_DataGiridImaj
         public int Id { get; set; }
         public string UrunTanim { get; set; }
         public string ResimYol { get; set; }
-        public Image UrunResim 
+        public Image UrunResim
         {
             get
             {
@@ -21,7 +21,7 @@ namespace MCD_DataGiridImaj
                 else
                     return Image.FromFile(@"C:\Users\103AKSAM_EMRE\Desktop\aksamemre\photos\NoImage.jpg");
             }
-   
+
         }
     }
 }
