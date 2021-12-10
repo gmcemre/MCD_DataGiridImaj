@@ -19,7 +19,7 @@ namespace MCD_DataGiridImaj
                 if (!string.IsNullOrEmpty(ResimYol))
                     return Image.FromFile(ResimYol);
                 else
-                    return Image.FromFile(@"C:\Users\103AKSAM_EMRE\Desktop\aksamemre\NoImage.jpg");
+                    return Image.FromFile(@"C:\Users\103AKSAM_EMRE\Desktop\aksamemre\photos\NoImage.jpg");
             }
    
         }

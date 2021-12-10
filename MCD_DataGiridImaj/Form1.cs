@@ -24,21 +24,21 @@ namespace MCD_DataGiridImaj
             {
                 Id =1,
                 UrunTanim=  "Tablet 1",
-                ResimYol  = @"C:\Users\103AKSAM_EMRE\Desktop\aksamemre\Tablet1.jfif"
+                ResimYol  = @"C:\Users\103AKSAM_EMRE\Desktop\aksamemre\photos\Tablet1.jfif"
             });
 
             urunlerim.Add(new Urun()
             {
                 Id = 2,
                 UrunTanim = "Tablet 2",
-                ResimYol = @"C:\Users\103AKSAM_EMRE\Desktop\aksamemre\Tablet2.jfif"
+                ResimYol = @"C:\Users\103AKSAM_EMRE\Desktop\aksamemre\photos\Tablet2.jfif"
             });
 
             urunlerim.Add(new Urun()
             {
                 Id = 3,
                 UrunTanim = "Tablet 3",
-                ResimYol = @"C:\Users\103AKSAM_EMRE\Desktop\aksamemre\Tablet3.jfif"
+                ResimYol = @"C:\Users\103AKSAM_EMRE\Desktop\aksamemre\photos\Tablet3.jfif"
             });
 
             urunlerim.Add(new Urun()
