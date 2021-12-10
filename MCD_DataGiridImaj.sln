@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCD_DataGiridImaj", "MCD_DataGiridImaj\MCD_DataGiridImaj.csproj", "{22A85AC9-4A37-40B8-A32F-F46F81C2B88D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22A85AC9-4A37-40B8-A32F-F46F81C2B88D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22A85AC9-4A37-40B8-A32F-F46F81C2B88D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22A85AC9-4A37-40B8-A32F-F46F81C2B88D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22A85AC9-4A37-40B8-A32F-F46F81C2B88D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79A53BD0-6AFA-4758-976D-9BE6674ACA9B}
+	EndGlobalSection
+EndGlobal
